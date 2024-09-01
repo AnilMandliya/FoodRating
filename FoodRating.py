@@ -1,0 +1,1 @@
+print("Starting the Food Rating Project")
